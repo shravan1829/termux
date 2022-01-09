@@ -1,0 +1,8 @@
+git clone https://shravan1829/termux
+cd $termux
+ls
+cd mrhack
+ls
+bash setup
+bash mrhack
+
