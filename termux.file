@@ -4,10 +4,10 @@ pkg install python -y
 pkg install python2 -y
 pkg install git -y
 pip install lolcat
-git clone https://github.com/shravan1829/termux
-cd $termux
+git clone https://github.com/shravan1829
+cd $shravan1829
 ls
-cd mrhack
+cd shra1829
 ls
 bash setup
 bash mrhack
