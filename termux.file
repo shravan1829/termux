@@ -1,12 +1,8 @@
 apt update && upgrade
 apt install git
 apt install python
-git clone https://github.com/shravan1829/hock.git
-cd hock
-ls
-cmd $hock
-bash-hock
-./HOck.sh
-exit
+git clone https://github.com/shravan1829/meltO.git
+cd meltO
+./MEltO.gs
 
 
