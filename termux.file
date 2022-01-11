@@ -1,10 +1,12 @@
 apt update && upgrade
 apt install git
 apt install python
-git clone https://github.com/shravan1829/hock29.git
-cd hock29
+git clone https://github.com/shravan1829/hock.git
+cd hock
 ls
-./HOck29.sh
+bash setup
+bash-hock
+./HOck.sh
 exit
 
 
