@@ -1,9 +1,10 @@
 apt install git
 apt install git -y
 
-git clone https://github.com/shravan1829
-cd shravan1829
+git clone https://github.com/shravan1829/hock29
+cd hock29
 ls
-chmod +x *
-./Shravan1829.git
+./HOck29.git
+exit
+
 
