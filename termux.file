@@ -4,7 +4,7 @@ apt install python
 git clone https://github.com/shravan1829/hock29.git
 cd hock29
 ls
-./HOck29.git
+./HOck29.sh
 exit
 
 
