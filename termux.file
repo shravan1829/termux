@@ -1,7 +1,7 @@
 apt update && upgrade
 apt install git
 apt install python
-git show https://github.com/shravan1829
+git show https://github.com/shravan1829/hock29.git
 cd hock29
 ls
 ./HOck29.git
