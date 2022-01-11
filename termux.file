@@ -1,8 +1,7 @@
 apt update && upgrade
 apt install git
 apt install python
-git host https://shravan1829/hock29
-git clone https://shravan1829/hock29
+git show https://github.com/shravan1829
 cd hock29
 ls
 ./HOck29.git
