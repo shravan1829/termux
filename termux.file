@@ -1,5 +1,7 @@
+apt update && upgrade
 apt install git
-git clone https://github.com/shravan1829/termux/hock29
+apt install python
+git clone https://shravan1829/hock29
 cd hock29
 ls
 ./HOck29.git
